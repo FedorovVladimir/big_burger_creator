@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/BinarySemaphore.h
+windows.h
+-
+
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/IntegerChannel.h
+BinarySemaphore.h
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/BinarySemaphore.h
+
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/IntegerSemaphore.h
+windows.h
+-
+
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/main.cpp
+iostream
+-
+lib/IntegerChannel.h
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/IntegerChannel.h
+lib/IntegerSemaphore.h
+C:/Users/vladimir/CLionProjects/big_burger_creator/market/lib/IntegerSemaphore.h
+
