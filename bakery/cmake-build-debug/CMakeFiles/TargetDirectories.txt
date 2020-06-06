@@ -1,0 +1,3 @@
+C:/Users/vladimir/CLionProjects/big_burger_creator/bakery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/bakery/cmake-build-debug/CMakeFiles/bakery.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/bakery/cmake-build-debug/CMakeFiles/edit_cache.dir
