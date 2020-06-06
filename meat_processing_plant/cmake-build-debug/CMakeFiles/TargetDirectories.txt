@@ -1,0 +1,3 @@
+C:/Users/vladimir/CLionProjects/big_burger_creator/meat_processing_plant/cmake-build-debug/CMakeFiles/meat_processing_plant.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/meat_processing_plant/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/meat_processing_plant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
