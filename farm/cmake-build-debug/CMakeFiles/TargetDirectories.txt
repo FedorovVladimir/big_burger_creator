@@ -1,0 +1,3 @@
+C:/Users/vladimir/CLionProjects/big_burger_creator/farm/cmake-build-debug/CMakeFiles/farm.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/farm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/farm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
