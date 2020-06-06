@@ -1,0 +1,3 @@
+C:/Users/vladimir/CLionProjects/big_burger_creator/burger_joint/cmake-build-debug/CMakeFiles/burger_joint.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/burger_joint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vladimir/CLionProjects/big_burger_creator/burger_joint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
